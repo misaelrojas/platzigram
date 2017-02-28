@@ -1,0 +1,7 @@
+npm init
+npm install --save express
+npm i --save materialize-css
+npm i -save-dev gulp gulp-sass
+gulp i -g gulp
+npm i --save gulp-rename
+gulp
